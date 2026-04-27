@@ -94,7 +94,7 @@
         <scala.version>2.13.12</scala.version>
         <scalatest.version>3.1.2</scalatest.version>
         <scalamock.version>4.4.0</scalamock.version>
-        <scala-maven-plugin.version>4.4.0</scala-maven-plugin.version>
+        <scala-maven-plugin.version>4.9.10</scala-maven-plugin.version>
     </properties>
 
     <modules>
