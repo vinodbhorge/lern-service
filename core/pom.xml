@@ -71,7 +71,7 @@
         <unirest.version>1.4.9</unirest.version>
         
         <!-- Play Framework -->
-        <play2.version>3.0.5</play2.version>
+        <play2.version>3.0.10</play2.version>
         <scala.major.version>2.13</scala.major.version>
         
         <!-- Testing -->
