@@ -42,7 +42,7 @@
 
         <!-- Security: Vulnerability Remediation Versions -->
         <protobuf.version>3.25.5</protobuf.version>
-        <nimbus-jose-jwt.version>9.37.2</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.37.4</nimbus-jose-jwt.version>
         <okhttp3.version>4.9.2</okhttp3.version>
         <dnsjava.version>3.6.0</dnsjava.version>
         <jetty.version>9.4.57.v20241219</jetty.version>
